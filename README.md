@@ -1,2 +1,2 @@
 # training-vue
-Training Vue Jogja
+Training Vue
